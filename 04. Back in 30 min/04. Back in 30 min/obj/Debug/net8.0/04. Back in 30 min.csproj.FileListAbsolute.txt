@@ -1,0 +1,14 @@
+C:\Users\User\Documents\SoftUniCsFundamentals\1.BasycSyntax\04. Back in 30 min\04. Back in 30 min\bin\Debug\net8.0\04. Back in 30 min.exe
+C:\Users\User\Documents\SoftUniCsFundamentals\1.BasycSyntax\04. Back in 30 min\04. Back in 30 min\bin\Debug\net8.0\04. Back in 30 min.deps.json
+C:\Users\User\Documents\SoftUniCsFundamentals\1.BasycSyntax\04. Back in 30 min\04. Back in 30 min\bin\Debug\net8.0\04. Back in 30 min.runtimeconfig.json
+C:\Users\User\Documents\SoftUniCsFundamentals\1.BasycSyntax\04. Back in 30 min\04. Back in 30 min\bin\Debug\net8.0\04. Back in 30 min.dll
+C:\Users\User\Documents\SoftUniCsFundamentals\1.BasycSyntax\04. Back in 30 min\04. Back in 30 min\bin\Debug\net8.0\04. Back in 30 min.pdb
+C:\Users\User\Documents\SoftUniCsFundamentals\1.BasycSyntax\04. Back in 30 min\04. Back in 30 min\obj\Debug\net8.0\04. Back in 30 min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\SoftUniCsFundamentals\1.BasycSyntax\04. Back in 30 min\04. Back in 30 min\obj\Debug\net8.0\04. Back in 30 min.AssemblyInfoInputs.cache
+C:\Users\User\Documents\SoftUniCsFundamentals\1.BasycSyntax\04. Back in 30 min\04. Back in 30 min\obj\Debug\net8.0\04. Back in 30 min.AssemblyInfo.cs
+C:\Users\User\Documents\SoftUniCsFundamentals\1.BasycSyntax\04. Back in 30 min\04. Back in 30 min\obj\Debug\net8.0\04. Back in 30 min.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SoftUniCsFundamentals\1.BasycSyntax\04. Back in 30 min\04. Back in 30 min\obj\Debug\net8.0\04. Back in 30 min.dll
+C:\Users\User\Documents\SoftUniCsFundamentals\1.BasycSyntax\04. Back in 30 min\04. Back in 30 min\obj\Debug\net8.0\refint\04. Back in 30 min.dll
+C:\Users\User\Documents\SoftUniCsFundamentals\1.BasycSyntax\04. Back in 30 min\04. Back in 30 min\obj\Debug\net8.0\04. Back in 30 min.pdb
+C:\Users\User\Documents\SoftUniCsFundamentals\1.BasycSyntax\04. Back in 30 min\04. Back in 30 min\obj\Debug\net8.0\04. Back in 30 min.genruntimeconfig.cache
+C:\Users\User\Documents\SoftUniCsFundamentals\1.BasycSyntax\04. Back in 30 min\04. Back in 30 min\obj\Debug\net8.0\ref\04. Back in 30 min.dll
